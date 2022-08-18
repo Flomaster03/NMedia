@@ -2,4 +2,12 @@
 <resources>
     <string name="app_name">НМедиа</string>
     <string name="hello">НМедиа!</string>
+    <string name="number_vews">Число просмотров</string>
+    <string name="number_share">Поделились</string>
+    <string name="vews">Просмотры</string>
+    <string name="share">Поделиться</string>
+    <string name="number_likes">Количество лайков</string>
+    <string name="likes">Понравилось</string>
+    <string name="options_menu">Меню</string>
+    <string name="avatar_description">Аватар</string>
 </resources>
